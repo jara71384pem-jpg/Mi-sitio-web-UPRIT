@@ -4,7 +4,6 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Tablas HTML</title>
 </head>
 
 <body>
